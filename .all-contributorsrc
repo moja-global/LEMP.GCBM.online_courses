@@ -13,11 +13,22 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "saloni-garg",
+      "name": "Saloni Garg",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26901250?v=4",
+      "profile": "http://saloni-garg.github.io",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Import-Me",
+  "projectName": "LEMP.GCBM.online_courses",
   "projectOwner": "moja-global",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
