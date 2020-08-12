@@ -28,7 +28,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt=""/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td>
-    <td align="center"><a href="http://saloni-garg.github.io"><img src="https://avatars2.githubusercontent.com/u/26901250?v=4" width="100px;" alt=""/><br /><sub><b>Saloni Garg</b></sub></a><br /><a href="https://github.com/moja-global/LEMP.GCBM.online_courses/commits?author=saloni-garg" title="Code">💻</a> <a href="https://github.com/moja-global/LEMP.GCBM.online_courses/commits?author=saloni-garg" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://saloni-garg.github.io"><img src="https://user-images.githubusercontent.com/26901250/89892507-6159ce00-dbf4-11ea-9b50-3f422536a531.jpeg" width="100px;" alt=""/><br /><sub><b>Saloni Garg</b></sub></a><br /><a href="https://www.youtube.com/channel/UCfQUrrNP1Xf-Fv4c8uHYXhQ" title="Code">💻</a> <a href="https://github.com/moja-global/LEMP.GCBM.online_courses/commits?author=saloni-garg" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/cptncarbon"><img src="https://i1.rgstatic.net/ii/profile.image/807440501198849-1569520225883_Q512/Stephen_Kull.jpg" width="100px;" alt=""/><br /><sub><b>Stephen Kull</b></sub></a><br /><a href="https://github.com/moja-global/LEMP.GCBM.online_courses/commits?author=cptncarbon" title="Code">💻</a> <a href="https://github.com/moja-global/LEMP.GCBM.online_courses/commits?author=cptncarbon" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -42,7 +43,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Maintainers Reviewers Ambassadors Coaches
 
 The following people are Maintainers Reviewers Ambassadors or Coaches  
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>
+<table><tr>
+  <td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt=""/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td>
+    <td align="center"><a href="http://saloni-garg.github.io"><img src="https://user-images.githubusercontent.com/26901250/89892507-6159ce00-dbf4-11ea-9b50-3f422536a531.jpeg" width="100px;" alt=""/><br /><sub><b>Saloni Garg</b></sub></a><br /><a href="https://www.youtube.com/channel/UCfQUrrNP1Xf-Fv4c8uHYXhQ" title="Maintainer"> :woman_office_worker: </a></td>
+    <td align="center"><a href="https://github.com/cptncarbon"><img src="https://i1.rgstatic.net/ii/profile.image/807440501198849-1569520225883_Q512/Stephen_Kull.jpg" width="100px;" alt=""/><br /><sub><b>Stephen Kull</b></sub></a><br /><a href="https://github.com/moja-global/LEMP.GCBM.online_courses/commits?author=cptncarbon" title="Maintainer"> :man_office_worker: </a></td>
+  </tr></table>
 
 
 **Maintainers** review and accept proposed changes  
